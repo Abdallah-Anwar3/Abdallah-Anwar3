@@ -1,7 +1,7 @@
 # Hi, I'm Abdallah Anwar 👋
 
-**Front-end developer (React) with a Node.js back-end background.**
-I build clean, responsive web apps and care about the details: accessibility, RTL/Arabic support, offline-first behavior, and secure data access.
+**Full-stack developer (React & Node.js).**
+I build clean, responsive web apps end to end, from the React UI to the Node.js and database layer, and care about the details: accessibility, RTL/Arabic support, offline-first behavior, and secure data access.
 
 ---
 
@@ -57,7 +57,7 @@ My university graduation project, built as a team. An AI-assisted mental health 
 ## 🌱 Currently
 
 - Building production-style React apps with TypeScript
-- Deepening my Node.js back-end skills
+- Building full-stack apps with React and Node.js
 - Finishing my graduation project with my team
 
 ---

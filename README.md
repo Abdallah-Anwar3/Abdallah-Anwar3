@@ -42,10 +42,10 @@ An Arabic (RTL) progressive web app for managing interior-finishing projects. On
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `TanStack Query` `Dexie` `Supabase` `PWA`
 
-### [Tawsal](https://github.com/Abdallah-Anwar3/Tawsal)
-An Arabic awareness website for people with hearing disabilities and their families. It covers disability laws (international and Egyptian), early detection of hearing loss, early intervention, and the family's role.
+### [Tawasal (تواصل)](https://github.com/Abdallah-Anwar3/Tawsal) · [Live](https://tawsal.vercel.app)
+A sign language educational platform for children with special needs, built with a team from the Faculty of Disability Sciences. It also guides parents and includes a directory of trusted care and rehabilitation centers. I designed the full UI/UX, then built it with HTML, CSS, Bootstrap and JavaScript, using HTML5 video for smooth lesson playback.
 
-`HTML` `CSS` `JavaScript` `Bootstrap 5 RTL`
+`HTML` `CSS` `JavaScript` `Bootstrap 5 RTL` `UI/UX`
 
 ### [AURA — AI Therapy Platform](https://github.com/abdallah-gith/AURA-AI-Therapy)
 My university graduation project, built as a team. An AI-assisted mental health platform with a conversational therapist, emotion tracking, and a progress dashboard. I'm working on the **front-end with React**, while teammates handle the FastAPI back-end and the AI models.

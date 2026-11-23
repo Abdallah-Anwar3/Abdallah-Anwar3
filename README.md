@@ -48,9 +48,9 @@ An Arabic awareness website for people with hearing disabilities and their famil
 `HTML` `CSS` `JavaScript` `Bootstrap 5 RTL`
 
 ### [AURA — AI Therapy Platform](https://github.com/abdallah-gith/AURA-AI-Therapy)
-My university graduation project, built as a team. An AI-assisted mental health platform with a conversational therapist, emotion tracking, and a progress dashboard.
+My university graduation project, built as a team. An AI-assisted mental health platform with a conversational therapist, emotion tracking, and a progress dashboard. I'm working on the **front-end with React**, while teammates handle the FastAPI back-end and the AI models.
 
-`React` `FastAPI` `PostgreSQL` `AI / RAG`
+`React` `Tailwind CSS` `FastAPI` `PostgreSQL` `AI / RAG`
 
 ---
 
@@ -64,4 +64,6 @@ My university graduation project, built as a team. An AI-assisted mental health 
 
 ## 📫 Let's connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Abdallah--Anwar3-181717?style=flat-square&logo=github)](https://github.com/Abdallah-Anwar3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdallah_Anwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-anwar0/)
+[![Email](https://img.shields.io/badge/Email-anwer3652@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwer3652@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Abdallah_Anwar-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdallah.anwar.790454)

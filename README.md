@@ -1,7 +1,7 @@
 # Hi, I'm Abdallah Anwar 👋
 
 **Full-stack developer (React & Node.js).**
-I build clean, responsive web apps end to end, from the React UI to the Node.js and database layer, and care about the details: accessibility, RTL/Arabic support, offline-first behavior, and secure data access.
+I build clean, responsive web apps end to end, from the React and Next.js UI to the Node.js, Express or NestJS API and the database, and care about the details: accessibility, RTL/Arabic support, offline-first behavior, and secure data access.
 
 ---
 
@@ -10,6 +10,7 @@ I build clean, responsive web apps end to end, from the React UI to the Node.js 
 **Front-end**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -21,13 +22,20 @@ I build clean, responsive web apps end to end, from the React UI to the Node.js 
 **Back-end & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
@@ -56,8 +64,9 @@ My university graduation project, built as a team. An AI-assisted mental health 
 
 ## 🌱 Currently
 
-- Building production-style React apps with TypeScript
-- Building full-stack apps with React and Node.js
+- Building production-style apps with React, Next.js and TypeScript
+- Building REST APIs with Node.js, Express and NestJS, backed by MongoDB, MySQL and PostgreSQL
+- Learning Docker, design patterns and OOP in TypeScript
 - Finishing my graduation project with my team
 
 ---
@@ -67,3 +76,4 @@ My university graduation project, built as a team. An AI-assisted mental health 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdallah_Anwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-anwar0/)
 [![Email](https://img.shields.io/badge/Email-anwer3652@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwer3652@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Abdallah_Anwar-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdallah.anwar.790454)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+20_111_126_1218-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201111261218)

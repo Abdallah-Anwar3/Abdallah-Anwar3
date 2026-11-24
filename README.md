@@ -1,6 +1,7 @@
 # Hi, I'm Abdallah Anwar 👋
 
-**Full-stack developer (React & Node.js).**
+**Full-stack developer (React & Node.js).**  
+🌐 Portfolio: [portfolio-abdallah-anwar.vercel.app](https://portfolio-abdallah-anwar.vercel.app/)
 I build clean, responsive web apps end to end, from the React and Next.js UI to the Node.js, Express or NestJS API and the database, and care about the details: accessibility, RTL/Arabic support, offline-first behavior, and secure data access.
 
 ---
@@ -73,6 +74,7 @@ My university graduation project, built as a team. An AI-assisted mental health 
 
 ## 📫 Let's connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdallah--anwar.vercel.app-2B35E8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-abdallah-anwar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdallah_Anwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-anwar0/)
 [![Email](https://img.shields.io/badge/Email-anwer3652@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anwer3652@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Abdallah_Anwar-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdallah.anwar.790454)
